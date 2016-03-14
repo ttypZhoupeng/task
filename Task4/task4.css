@@ -1,0 +1,127 @@
+*{
+    margin:  0;
+    padding: 0;
+}
+body{
+    font: normal 100% Helvetica, Arial, sans-serif;
+    background-color: #eeeff3;
+}
+img{
+    max-width: 100%;
+}
+#header{
+    width: 100%;
+    height: 147px;
+    background-color: #5abfcd;
+}
+.inner{
+    width: 100%;
+    height: 37px;
+    background-color: #5abfcd;
+}
+.font-type1{
+    color: #fffefd;
+    font-weight: 200;
+    text-align: center;
+    font-size: 30px;
+    position: relative;
+    top:-10px;
+}
+.font-type2{
+    color: #fffefd;
+    font-weight: 700;
+    text-align: center;
+    font-size: 1.875em;
+    position: relative;
+}
+.inner-left{
+    width: 30%;
+    float: left;
+    background-color: #5abfcd;
+    font-size: 37px;
+    height: 37px;
+}
+.inner-center{
+    text-align: center;
+    width: 40%;
+    float: left;
+    height: 37px;
+    background: #5abfcd;
+}
+.inner-right{
+    float: right;
+    width: 30%;
+    background-color: #5abfcd;
+    text-align: right;
+    height: 37px;
+}
+.wrap{
+    width: 100%;
+    height: 110px;
+    line-height: 110px;
+}
+.font-type3{
+    color: #fffefd;
+    font-size: 2.5em;
+    width: 10%;
+    float: left;
+    text-align: center;
+
+}
+.font-type4{
+    color: #fffefd;
+    font-size: 2.5em;
+    width: 10%;
+    float: left;
+    text-align: center;
+
+}
+.font-type5{
+    color: #fffefd;
+    font-size: 3.125em;
+    width: 80%;
+    float: left;
+    text-align: center;
+}
+#container{
+    width: 100%;
+    height: 300px;
+}
+.box{
+    margin-top: 10px;
+    background-color: #fdfdfe;
+    height: 100px;
+    line-height: 100px;
+}
+.img-type{
+    float: left;
+}
+.font-type6{
+    color: #e0e4e6;
+    font-size: 2.0em;
+}
+.font-type7{
+    color: #e0e4e6;
+    font-size: 2.0em;
+}
+#footer{
+    background-color: #5abfcd;
+    height: 100px;
+    line-height: 100px;
+    width: 100%;
+    text-align: center;
+}
+.font-type8{
+    color: #fffefd;
+    font-size: 3.125em;
+}
+#last{
+    height: 70px;
+    width: 100%;
+    line-height: 70px ;
+}
+.font-type9{
+    color: #5abfcd;
+    font-size: 2.5em;
+    float: right;
+}
